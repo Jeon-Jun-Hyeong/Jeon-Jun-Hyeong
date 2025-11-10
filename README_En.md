@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - 📫 Contact: 010-????-???? / ??????@naver.com(??????@gmail.com)
 
 
+## 💪 Github Stats
+![Jun-Hyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeon-Jun-Hyeong&show_icons=true&theme=radical)
+
+
 ## 🚀 Skills
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
